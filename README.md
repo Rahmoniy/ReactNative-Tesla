@@ -1,5 +1,6 @@
 ![Simulator Screenshot - iPhone 14 - 2023-10-08 at 14 18 52](https://github.com/Rahmoniy/ReactNative-Tesla/assets/147306871/cd537fce-4f96-4ed1-a716-295ff39c74b8)
-/Users/rakhimov/Desktop/Simulator Screenshot - iPhone 14 - 2023-10-08 at 14.18.52.png
+![Simulator Screenshot - iPhone 14 - 2023-10-08 at 14 18 52](https://github.com/Rahmoniy/ReactNative-Tesla/assets/147306871/3e1c37ee-2fcd-4e4a-8ed4-32ce1e2e8c6f)
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
