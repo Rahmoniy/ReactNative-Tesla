@@ -1,3 +1,4 @@
+![Uploading Simulator Screenshot - iPhone 14 - 2023-10-08 at 14.18.52.png…]()
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
