@@ -1,5 +1,7 @@
 ![Simulator Screenshot - iPhone 14 - 2023-10-08 at 14 18 52](https://github.com/Rahmoniy/ReactNative-Tesla/assets/147306871/cd537fce-4f96-4ed1-a716-295ff39c74b8)
 ![Simulator Screenshot - iPhone 14 - 2023-10-08 at 14 18 52](https://github.com/Rahmoniy/ReactNative-Tesla/assets/147306871/3e1c37ee-2fcd-4e4a-8ed4-32ce1e2e8c6f)
+![Simulator Screenshot - iPhone 14 - 2023-10-08 at 14 18 52](https://github.com/Rahmoniy/ReactNative-Tesla/assets/147306871/fadec954-ae64-4139-8d73-08be6a10f027)
+
 
 # Expo Router Example
 
